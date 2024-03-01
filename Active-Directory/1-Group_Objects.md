@@ -5,3 +5,6 @@
 - Enterprise Admins
 - Domain Admins
 - Domain local, Global, & Universal
+
+## References
+- https://rootdse.org/posts/active-directory-basics-2/
