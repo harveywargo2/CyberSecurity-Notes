@@ -16,3 +16,8 @@
 - https://rootdse.org/posts/active-directory-basics-3/
 - https://rootdse.org/posts/active-directory-basics-4/
 
+
+
+[FREE] - https://www.youtube.com/watch?v=85-bp7XxWDQ&t=1455s
+[FREE] - https://www.youtube.com/watch?v=4qC7H-y7oKI
+[FREE] - https://www.youtube.com/watch?v=rEhTzP-ScBo
