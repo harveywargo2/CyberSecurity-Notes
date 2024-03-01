@@ -1,4 +1,4 @@
-# Skill Check
+# Skill Up
 - Set up a Domain Controller in a VM
 
 ## References

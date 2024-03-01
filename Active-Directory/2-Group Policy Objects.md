@@ -1,4 +1,4 @@
-# Skill Check
+# Skill Up
 - What are Group Policies 
 - Default Policy
 - Computer Configuration

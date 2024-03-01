@@ -1,6 +1,6 @@
-# Skill Check
+# Skill Up
 - Pass the hash 
-- Tool Kit
+- CME Tool Kit
 
 ## References
 - https://www.youtube.com/watch?v=VXxH4n684HE&t=825s

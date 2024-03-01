@@ -1,4 +1,4 @@
-# Skill Check
+# Skill Up
 - How the attack works
 - How it is used
 - Redirection, Spoofed Response, Eavesdropping

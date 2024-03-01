@@ -1,5 +1,5 @@
 # Skill Up
-- How 
+- How attack is performed
 - Golden Tickets 
 - Silver Tickets
 

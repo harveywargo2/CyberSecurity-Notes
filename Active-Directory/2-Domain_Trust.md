@@ -1,4 +1,4 @@
-# Skill Checks
+# Skill Up
 - What is Domain Trust 
 - Trust Direction
 - Trust Types 

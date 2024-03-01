@@ -1,4 +1,4 @@
-# Skill Check
+# Skill Up
 - Shared folders 
 - IPC$
 - C$

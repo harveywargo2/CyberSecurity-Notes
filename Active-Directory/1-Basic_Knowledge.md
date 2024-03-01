@@ -1,4 +1,4 @@
-# Skill Check
+# Skill Up
 - What is Active Directory Domain Services
 - Active Directory Like a Phone Book
 - What is a Domain

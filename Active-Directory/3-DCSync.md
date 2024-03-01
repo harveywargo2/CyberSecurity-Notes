@@ -1,4 +1,4 @@
-# Skill Check
+# Skill Up
 - How a DCSync Attack works 
 - Domain Replication
 

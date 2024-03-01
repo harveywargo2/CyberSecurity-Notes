@@ -1,4 +1,4 @@
-# Skill Check
+# Skill Up
 - Mimikatz
 - Bloodhound
 - PowerView/PowerSploit

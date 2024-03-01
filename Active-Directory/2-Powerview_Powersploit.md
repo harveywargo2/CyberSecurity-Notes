@@ -1,4 +1,4 @@
-# Skill Check
+# Skill Up
 - use PowerView/Powersploit to enumerate AD 
 
 ## References 
