@@ -11,3 +11,4 @@
 - https://attack.mitre.org/software/S0552/
 - https://derkvanderwoude.medium.com/active-directory-enumeration-detected-by-microsoft-security-solutions-9f983ab3382a
 - https://thedfirreport.com/2020/05/08/adfind-recon/
+- https://notes.benheater.com/books/active-directory/page/manual-enumeration
