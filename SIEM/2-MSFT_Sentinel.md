@@ -25,7 +25,7 @@
 - Logs Section
 - Data Connectors
 - Log Retention
-- Imutable Tables
+- Immutable Tables
 - Incidents Section
 
 ## References
