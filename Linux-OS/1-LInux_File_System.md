@@ -8,6 +8,7 @@
 - etc
 - lib
 - opt
+- root
 
 
 ## References
