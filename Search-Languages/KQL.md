@@ -51,6 +51,8 @@
 - make_set, make_list
 - percentiles
 
+## 2-Query Efficiency
+
 ## References 
 - https://github.com/rod-trent/MustLearnKQL
 - https://github.com/rod-trent/MustLearnKQL/tree/main/Book_Version
