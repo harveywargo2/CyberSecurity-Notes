@@ -2,7 +2,7 @@
 - Subnetting
 - Net Masks
 - RFC 1918 
-- Netorks
+- Networks
 - NAT
 
 ## References
