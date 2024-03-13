@@ -1,0 +1,13 @@
+## Password Spray (T1110.003)
+- https://attack.mitre.org/techniques/T1110/003/
+- https://www.splunk.com/en_us/blog/security/detecting-password-spraying-attacks-threat-research-release-may-2021.html
+- https://www.hub.trimarcsecurity.com/post/trimarc-research-detecting-password-spraying-with-security-event-auditing
+- https://www.hackingarticles.in/comprehensive-guide-on-password-spraying-attack/
+- https://resources.infosecinstitute.com/topic/top-tools-for-password-spraying-attacks-in-active-directory-networks/
+- https://www.microsoft.com/security/blog/2020/04/23/protecting-organization-password-spray-attacks/
+- https://gitbook.seguranca-informatica.pt/tools/infrastructure-and-network/active-directory
+- https://book.hacktricks.xyz/windows-hardening/active-directory-methodology/password-spraying
+- https://www.whiteoaksecurity.com/blog/goawsconsolespray-password-spraying-tool/
+- https://resources.infosecinstitute.com/topic/top-tools-for-password-spraying-attacks-in-active-directory-networks/
+- https://www.ired.team/offensive-security-experiments/active-directory-kerberos-abuse/active-directory-password-spraying
+- https://www.eshlomo.us/active-directory-password-spray-attack/
