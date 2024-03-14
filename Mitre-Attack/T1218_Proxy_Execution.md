@@ -1,3 +1,6 @@
+- https://attack.mitre.org/techniques/T1218/
+
+
 ## MSDT 
 - https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/msdt
 - https://www.file.net/process/msdt.exe.html
@@ -19,4 +22,5 @@ Example Command Line from LOLBAS Project
 ~~~
 msdt.exe -path C:\WINDOWS\diagnostics\index\PCWDiagnostic.xml -af C:\PCW8E57.xml /skip TRUE
 ~~~
+
 

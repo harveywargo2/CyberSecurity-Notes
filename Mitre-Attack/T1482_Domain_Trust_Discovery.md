@@ -1,0 +1,2 @@
+- https://attack.mitre.org/techniques/T1482/
+- https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1482/T1482.md

@@ -39,4 +39,7 @@
 
 ## Web URL
 - https://www.freecodecamp.org/news/what-is-dns-for-beginners/
+- https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_URL
+- https://auth0.com/blog/url-uri-urn-differences/
+- https://danielmiessler.com/p/difference-between-uri-url/
 

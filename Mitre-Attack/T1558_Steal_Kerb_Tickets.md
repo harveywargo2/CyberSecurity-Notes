@@ -5,3 +5,5 @@
 - https://www.ired.team/offensive-security-experiments/active-directory-kerberos-abuse/t1208-kerberoasting
 - https://adsecurity.org/?p=3458
 - https://redsiege.com/kerberos-and-attacks-101/
+- https://attack.mitre.org/techniques/T1558/
+- 
