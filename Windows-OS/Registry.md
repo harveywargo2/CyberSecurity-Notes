@@ -42,4 +42,8 @@ Then there is `Run` and `RunOnce`
 - the only difference is that `RunOnce` will automatically delete the entry upon successful execution.
 
 
+## Tools 
+- https://kurtzimmermann.com/regcoolext_en.html
+
+
 
