@@ -18,10 +18,12 @@
 
 
 ## Covenant 
-- - https://www.youtube.com/watch?v=BLMW0fougFM
+- https://www.youtube.com/watch?v=BLMW0fougFM
+
 
 ## Havoc
 - https://www.youtube.com/watch?v=ErPKP4Ms28s
+
 
 ## Sliver
 - https://www.youtube.com/watch?v=lMihdys4jw8&t=55s
