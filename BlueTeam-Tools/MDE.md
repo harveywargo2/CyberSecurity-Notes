@@ -33,6 +33,11 @@
 - https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/run-advanced-query-api?view=o365-worldwide
 - https://learn.microsoft.com/en-us/microsoft-365/security/defender/api-overview?view=o365-worldwide
 - https://learn.microsoft.com/en-us/microsoft-365/security/defender/api-supported?view=o365-worldwide
+- https://learn.microsoft.com/en-us/defender-xdr/api-supported
+- https://learn.microsoft.com/en-us/graph/api/resources/security-api-overview?view=graph-rest-beta&preserve-view=true#custom-detections
+- https://learn.microsoft.com/en-us/defender-xdr/api-advanced-hunting
+- https://learn.microsoft.com/en-us/defender-xdr/api-incident
+- https://learn.microsoft.com/en-us/graph/api/resources/security-detectionrule?view=graph-rest-beta
 
 ## Data Schema
 - https://learn.microsoft.com/en-us/microsoft-365/security/defender/advanced-hunting-deviceprocessevents-table?view=o365-worldwide
