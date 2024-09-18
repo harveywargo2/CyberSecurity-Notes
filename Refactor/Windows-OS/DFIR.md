@@ -9,7 +9,6 @@
 ## Unsorted
 - https://drive.google.com/file/d/1pU6CpiMXFGqo95cXxoCQQv53usludv8S/view?pli=1
 
-
 ## Search Index
 - https://www.sans.org/presentations/windows-search-index-the-forensic-artifact-you-ve-been-searching-for/
 - https://www.aon.com/cyber-solutions/aon_cyber_labs/windows-search-index-the-forensic-artifact-youve-been-searching-for/
