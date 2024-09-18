@@ -1,2 +1,0 @@
-- https://attack.mitre.org/techniques/T1112/
-- https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1112/T1112.md

@@ -1,3 +1,0 @@
-- https://attack.mitre.org/techniques/T1566/
-- https://trustpair.com/blog/spear-phishing-examples/?utm_term=&utm_campaign=Generic_Groupe_A&utm_source=adwords&utm_medium=ppc&hsa_acc=7560124890&hsa_cam=20803565024&hsa_grp=dsa&hsa_ad=692212714312&hsa_src=g&hsa_tgt=dsa-19959388920&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwwMqvBhCtARIsAIXsZpZR1QWzEG5NYpH_-dOPWKqZV2sPVfhhjqaMjsgn2PovADUalApwzfYaAk45EALw_wcB
-- https://www.fortinet.com/resources/cyberglossary/types-of-phishing-attacks
