@@ -11,19 +11,15 @@
 - https://www.trendmicro.com/en_us/research/22/j/black-basta-infiltrates-networks-via-qakbot-brute-ratel-and-coba.html
 - https://news.sophos.com/en-us/2023/05/18/the-phantom-menace-brute-ratel-remains-rare-and-targeted/
 
-
 ## Cobalt Strike
 - https://www.trustedsec.com/blog/red-teaming-with-cobalt-strike-not-so-obvious-features/
 - https://www.youtube.com/watch?v=i6tsLWrCiGE&list=PLcjpg2ik7YT6H5l9Jx-1ooRYpfvznAInJ
 
-
 ## Covenant 
 - https://www.youtube.com/watch?v=BLMW0fougFM
 
-
 ## Havoc
 - https://www.youtube.com/watch?v=ErPKP4Ms28s
-
 
 ## Sliver
 - https://www.youtube.com/watch?v=lMihdys4jw8&t=55s
