@@ -5,3 +5,4 @@
 - https://gist.github.com/insi2304/484a4e92941b437bad961fcacda82d49
 - https://tools.thehacker.recipes/mimikatz/
 - https://attack.mitre.org/software/S0002/
+- https://adsecurity.org/?page_id=1821

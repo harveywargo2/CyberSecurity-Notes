@@ -1,5 +1,5 @@
-# TryHackMe Windows 1
-#### https://tryhackme.com/r/room/windowsfundamentals1xbx
+# Windows 1
+https://tryhackme.com/r/room/windowsfundamentals1xbx
 Overview
 1. Desktop GUI (StartMenu/Search/TaskBar/ToolBar)
 2. Desktop
@@ -22,8 +22,8 @@ HOK
 3. UAC example on WireShark EXE 
 
 
-# TryHackMe Windows 2
-#### https://tryhackme.com/r/room/windowsfundamentals2x0x
+# Windows 2
+https://tryhackme.com/r/room/windowsfundamentals2x0x
 Overview
 1. System Config (MSConfig)
 2. Bootup/Startup Settings
@@ -53,8 +53,8 @@ HOK
 5. cmd help
 6. cmd net user
 
-# TryHackMe Windows 3
-#### https://tryhackme.com/r/room/windowsfundamentals3xzx
+# Windows 3
+https://tryhackme.com/r/room/windowsfundamentals3xzx
 Overview
 1. Windows Update
 2. Windows Security
