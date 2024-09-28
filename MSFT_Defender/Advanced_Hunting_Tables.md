@@ -1,6 +1,8 @@
 # References
 - https://learn.microsoft.com/en-us/defender-xdr/advanced-hunting-schema-tables?view=o365-worldwide
 - https://learn.microsoft.com/en-us/microsoft-365/security/defender/advanced-hunting-schema-tables?view=o365-worldwide
+- Finding Resource Intense Queries
+	- https://learn.microsoft.com/en-us/defender-xdr/advanced-hunting-limits
 
 # Action types 
 - possible values in the `ActionType` column representing the event types supported by the table. 
