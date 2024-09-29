@@ -4,7 +4,7 @@
 # Commands
 Set Unrestricted on device
 ```
-Set-ExecutionPolicy 
+Set-ExecutionPolicy Unrestricted
 ```
 
 See Execution Policy Scopes
@@ -15,4 +15,9 @@ Get-ExecutionPolicy -List
 See Current Execution Policy 
 ```
 Get-ExecutionPolicy
+```
+
+Set Execution Policy Specific Scope
+```
+Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
 ```
