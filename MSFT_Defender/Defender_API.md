@@ -3,11 +3,13 @@
 	- https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/run-advanced-query-api?view=o365-worldwide
 - Run ADH API
 	- https://learn.microsoft.com/en-us/defender-xdr/api-advanced-hunting
+	- https://learn.microsoft.com/en-us/graph/api/security-security-runhuntingquery?view=graph-rest-beta&tabs=http
 - XDR API Overview
 	- https://learn.microsoft.com/en-us/defender-xdr/api-overview
 	- https://learn.microsoft.com/en-us/defender-xdr/api-supported
 - Detection Rule API
 	- https://learn.microsoft.com/en-us/graph/api/resources/security-detectionrule?view=graph-rest-beta
 	- https://learn.microsoft.com/en-us/graph/api/resources/security-api-overview?view=graph-rest-beta&preserve-view=true#custom-detections
+	- https://learn.microsoft.com/en-us/graph/api/security-detectionrule-list?view=graph-rest-beta&tabs=http
 - Incidents API
 	- https://learn.microsoft.com/en-us/defender-xdr/api-incident

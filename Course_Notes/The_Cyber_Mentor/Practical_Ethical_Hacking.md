@@ -38,5 +38,5 @@
 # Exploitation
 - reverse shell vs bind shells
 	- netcat
-- 
+
 
