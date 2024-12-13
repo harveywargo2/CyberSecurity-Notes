@@ -1,3 +1,4 @@
+
 # References
 - https://docs.oasis-open.org/cti/stix/v2.1/cs01/stix-v2.1-cs01.html#_1j0vun2r7rgb
 - https://github.com/oasis-open/cti-python-stix2
@@ -10,18 +11,29 @@
 - Stix Viz
 	- https://oasis-open.github.io/cti-stix-visualization/
 - Stix Tools
-	- - https://github.com/oasis-open/cti-python-stix2
+	- https://github.com/oasis-open/cti-python-stix2
 - Stix Examples
 	- https://oasis-open.github.io/cti-documentation/examples/indicator-for-malicious-url
 	- https://oasis-open.github.io/cti-documentation/stix/examples.html
 - UUID Gen
 	- https://www.uuidgenerator.net/version4
 	- https://www.uuidtools.com/v5
+- Icons
+	- https://github.com/eclecticiq/stix-icons
+- Relationships
+	- https://freetaxii.github.io/stix1-architecture.html
+	- https://oasis-open.github.io/cti-documentation/examples/visualized-sdo-relationships
+- OpenCTI
+	- https://docs.opencti.io/latest/usage/data-model/
+- Custom Stix DogeSec Guide
+	- https://www.dogesec.com/blog/create_custom_stix_objects/
+	- https://www.dogesec.com/blog/quickstart_guide_stix2_python/
+	- https://www.dogesec.com/blog/beginners_guide_stix_objects/
 
 
 # SDO Stix Domain Object
 - Attack Pattern
-- Campain
+- Campaign
 - Course of Action 
 - Grouping 
 - Identity
